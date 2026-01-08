@@ -86,6 +86,7 @@ The system consists of four main layers:
 - Momentary pushbutton
 - 3D-printed enclosure (custom CAD)
 
+I will upload all Amazon.ca links, .stl and .ino files to this repo once I have finished the project (also photos/videos of the drink system in action!).
 ---
 
 ## Design Principles
@@ -122,12 +123,6 @@ Mostly as an exercise in:
 - systems thinking
 - control logic
 - and building something small that actually works.
-
----
-
-## License
-
-MIT (because this should never be proprietary).
 
 ---
 
